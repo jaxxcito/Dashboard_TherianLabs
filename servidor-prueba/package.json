@@ -1,0 +1,13 @@
+{
+  "name": "servidor-prueba",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Servidor de prueba para el panel y la app de Captura de Prospectos (reemplazo temporal del microservicio Spring Boot)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
